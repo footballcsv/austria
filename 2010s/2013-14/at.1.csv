@@ -1,0 +1,181 @@
+Round,Date,Team 1,FT,Team 2
+1,Sat Jul 20 2013,FK Austria Wien,2-0,FC Admira Wacker Mödling
+1,Sat Jul 20 2013,SV Grödig,0-0,SV Ried
+1,Sat Jul 20 2013,Wolfsberger AC,2-2,SK Rapid Wien
+1,Sat Jul 20 2013,SC Wiener Neustadt,1-5,FC RB Salzburg
+1,Sun Jul 21 2013,FC Wacker Innsbruck,2-2,SK Sturm Graz
+2,Sat Jul 27 2013,SK Rapid Wien,4-0,SC Wiener Neustadt
+2,Sat Jul 27 2013,FC Admira Wacker Mödling,1-2,FC Wacker Innsbruck
+2,Sat Jul 27 2013,FC RB Salzburg,5-1,FK Austria Wien
+2,Sat Jul 27 2013,SV Ried,1-0,Wolfsberger AC
+2,Sun Jul 28 2013,SK Sturm Graz,0-2,SV Grödig
+3,Sat Aug 3 2013,SV Grödig,7-1,FC Admira Wacker Mödling
+3,Sat Aug 3 2013,SC Wiener Neustadt,2-1,Wolfsberger AC
+3,Sat Aug 3 2013,FK Austria Wien,3-3,SV Ried
+3,Sat Aug 3 2013,FC Wacker Innsbruck,1-1,FC RB Salzburg
+3,Sun Aug 4 2013,SK Sturm Graz,2-4,SK Rapid Wien
+4,Sat Aug 10 2013,SV Ried,1-1,SC Wiener Neustadt
+4,Sat Aug 10 2013,Wolfsberger AC,1-1,FC Wacker Innsbruck
+4,Sat Aug 10 2013,FC RB Salzburg,4-1,SV Grödig
+4,Sat Aug 10 2013,FC Admira Wacker Mödling,1-1,SK Sturm Graz
+4,Sun Aug 11 2013,SK Rapid Wien,0-0,FK Austria Wien
+5,Sat Aug 17 2013,SK Sturm Graz,1-1,FC RB Salzburg
+5,Sat Aug 17 2013,SV Grödig,4-3,Wolfsberger AC
+5,Sat Aug 17 2013,FC Wacker Innsbruck,2-3,SV Ried
+5,Sat Aug 17 2013,FK Austria Wien,5-0,SC Wiener Neustadt
+5,Sun Aug 18 2013,FC Admira Wacker Mödling,2-0,SK Rapid Wien
+6,Sat Aug 24 2013,SV Ried,3-0,SK Sturm Graz
+6,Sat Aug 24 2013,Wolfsberger AC,1-4,FK Austria Wien
+6,Sat Aug 24 2013,SC Wiener Neustadt,1-1,FC Wacker Innsbruck
+6,Sun Aug 25 2013,SK Rapid Wien,0-1,SV Grödig
+6,Sun Aug 25 2013,FC RB Salzburg,1-0,FC Admira Wacker Mödling
+7,Sat Aug 31 2013,SK Sturm Graz,4-1,Wolfsberger AC
+7,Sat Aug 31 2013,FC Admira Wacker Mödling,1-4,SV Ried
+7,Sat Aug 31 2013,FK Austria Wien,1-1,FC Wacker Innsbruck
+7,Sat Aug 31 2013,SV Grödig,3-6,SC Wiener Neustadt
+7,Sun Sep 1 2013,FC RB Salzburg,1-1,SK Rapid Wien
+8,Sat Sep 14 2013,FK Austria Wien,2-3,SV Grödig
+8,Sat Sep 14 2013,FC Wacker Innsbruck,0-4,SK Rapid Wien
+8,Sat Sep 14 2013,SC Wiener Neustadt,1-3,SK Sturm Graz
+8,Sat Sep 14 2013,Wolfsberger AC,3-1,FC Admira Wacker Mödling
+8,Sun Sep 15 2013,SV Ried,0-5,FC RB Salzburg
+9,Sat Sep 21 2013,SK Sturm Graz,1-2,FK Austria Wien
+9,Sat Sep 21 2013,FC Admira Wacker Mödling,0-3,SC Wiener Neustadt
+9,Sat Sep 21 2013,SV Grödig,3-3,FC Wacker Innsbruck
+9,Sun Sep 22 2013,FC RB Salzburg,2-2,Wolfsberger AC
+9,Sun Sep 22 2013,SK Rapid Wien,2-0,SV Ried
+10,Sat Sep 28 2013,FC Admira Wacker Mödling,1-0,FK Austria Wien
+10,Sat Sep 28 2013,SK Sturm Graz,1-0,FC Wacker Innsbruck
+10,Sat Sep 28 2013,SK Rapid Wien,2-4,Wolfsberger AC
+10,Sat Sep 28 2013,SV Ried,4-2,SV Grödig
+10,Sun Sep 29 2013,FC RB Salzburg,8-1,SC Wiener Neustadt
+11,Sat Oct 5 2013,Wolfsberger AC,1-1,SV Ried
+11,Sat Oct 5 2013,FC Wacker Innsbruck,3-3,FC Admira Wacker Mödling
+11,Sat Oct 5 2013,SV Grödig,0-1,SK Sturm Graz
+11,Sun Oct 6 2013,SC Wiener Neustadt,0-0,SK Rapid Wien
+11,Sun Oct 6 2013,FK Austria Wien,1-2,FC RB Salzburg
+12,Sat Oct 19 2013,SV Ried,1-1,FK Austria Wien
+12,Sat Oct 19 2013,FC Admira Wacker Mödling,0-4,SV Grödig
+12,Sat Oct 19 2013,Wolfsberger AC,1-1,SC Wiener Neustadt
+12,Sat Oct 19 2013,FC RB Salzburg,6-0,FC Wacker Innsbruck
+12,Sun Oct 20 2013,SK Rapid Wien,2-2,SK Sturm Graz
+13,Sat Oct 26 2013,SK Sturm Graz,0-2,FC Admira Wacker Mödling
+13,Sat Oct 26 2013,SC Wiener Neustadt,3-3,SV Ried
+13,Sat Oct 26 2013,FC Wacker Innsbruck,1-2,Wolfsberger AC
+13,Sun Oct 27 2013,FK Austria Wien,0-1,SK Rapid Wien
+13,Sun Oct 27 2013,SV Grödig,0-3,FC RB Salzburg
+14,Sat Nov 2 2013,SK Rapid Wien,4-2,FC Admira Wacker Mödling
+14,Sat Nov 2 2013,Wolfsberger AC,1-1,SV Grödig
+14,Sat Nov 2 2013,FC RB Salzburg,1-0,SK Sturm Graz
+14,Sat Nov 2 2013,SV Ried,4-0,FC Wacker Innsbruck
+14,Sun Nov 3 2013,SC Wiener Neustadt,0-3,FK Austria Wien
+15,Sat Nov 9 2013,FK Austria Wien,1-0,Wolfsberger AC
+15,Sat Nov 9 2013,FC Wacker Innsbruck,4-0,SC Wiener Neustadt
+15,Sun Nov 10 2013,SV Grödig,2-2,SK Rapid Wien
+15,Sun Nov 10 2013,FC Admira Wacker Mödling,3-1,FC RB Salzburg
+16,Sat Nov 23 2013,SV Ried,2-2,FC Admira Wacker Mödling
+16,Sat Nov 23 2013,SC Wiener Neustadt,0-2,SV Grödig
+16,Sat Nov 23 2013,FC Wacker Innsbruck,0-5,FK Austria Wien
+16,Sun Nov 24 2013,SK Rapid Wien,2-1,FC RB Salzburg
+15,Wed Nov 27 2013,SK Sturm Graz,2-0,SV Ried
+17,Sat Nov 30 2013,SK Sturm Graz,2-3,SC Wiener Neustadt
+17,Sat Nov 30 2013,SV Grödig,1-0,FK Austria Wien
+17,Sat Nov 30 2013,FC Admira Wacker Mödling,3-0,Wolfsberger AC
+17,Sun Dec 1 2013,SK Rapid Wien,3-0,FC Wacker Innsbruck
+17,Sun Dec 1 2013,FC RB Salzburg,4-0,SV Ried
+18,Tue Dec 3 2013,FK Austria Wien,3-2,SK Sturm Graz
+18,Wed Dec 4 2013,FC Wacker Innsbruck,5-3,SV Grödig
+18,Wed Dec 4 2013,SC Wiener Neustadt,1-0,FC Admira Wacker Mödling
+18,Wed Dec 4 2013,SV Ried,2-0,SK Rapid Wien
+18,Wed Dec 4 2013,Wolfsberger AC,1-2,FC RB Salzburg
+19,Sat Dec 7 2013,FK Austria Wien,2-2,FC Admira Wacker Mödling
+19,Sat Dec 7 2013,FC Wacker Innsbruck,0-1,SK Sturm Graz
+19,Sat Dec 7 2013,SV Grödig,3-0,SV Ried
+19,Sun Dec 8 2013,Wolfsberger AC,2-1,SK Rapid Wien
+16,Wed Dec 11 2013,Wolfsberger AC,2-1,SK Sturm Graz
+20,Sat Dec 14 2013,SK Sturm Graz,2-2,SV Grödig
+20,Sat Dec 14 2013,SV Ried,1-3,Wolfsberger AC
+20,Sat Dec 14 2013,FC Admira Wacker Mödling,3-0,FC Wacker Innsbruck
+20,Sun Dec 15 2013,SK Rapid Wien,0-0,SC Wiener Neustadt
+20,Sun Dec 15 2013,FC RB Salzburg,4-0,FK Austria Wien
+21,Tue Dec 17 2013,SV Grödig,2-1,FC Admira Wacker Mödling
+21,Wed Dec 18 2013,FK Austria Wien,1-1,SV Ried
+21,Wed Dec 18 2013,FC Wacker Innsbruck,0-1,FC RB Salzburg
+21,Wed Dec 18 2013,SK Sturm Graz,2-0,SK Rapid Wien
+21,Wed Dec 18 2013,SC Wiener Neustadt,1-1,Wolfsberger AC
+19,Sun Feb 2 2014,SC Wiener Neustadt,1-5,FC RB Salzburg
+22,Sat Feb 8 2014,FC Admira Wacker Mödling,1-1,SK Sturm Graz
+22,Sat Feb 8 2014,SV Ried,2-1,SC Wiener Neustadt
+22,Sat Feb 8 2014,Wolfsberger AC,3-2,FC Wacker Innsbruck
+22,Sat Feb 8 2014,FC RB Salzburg,6-0,SV Grödig
+22,Sun Feb 9 2014,SK Rapid Wien,3-1,FK Austria Wien
+23,Sat Feb 15 2014,SK Sturm Graz,1-4,FC RB Salzburg
+23,Sat Feb 15 2014,SV Grödig,3-0,Wolfsberger AC
+23,Sat Feb 15 2014,FC Wacker Innsbruck,1-1,SV Ried
+23,Sat Feb 15 2014,FK Austria Wien,1-1,SC Wiener Neustadt
+23,Sun Feb 16 2014,FC Admira Wacker Mödling,2-1,SK Rapid Wien
+24,Sat Feb 22 2014,Wolfsberger AC,0-0,FK Austria Wien
+24,Sat Feb 22 2014,SC Wiener Neustadt,1-0,FC Wacker Innsbruck
+24,Sat Feb 22 2014,SK Rapid Wien,0-0,SV Grödig
+24,Sat Feb 22 2014,SV Ried,2-2,SK Sturm Graz
+24,Sun Feb 23 2014,FC RB Salzburg,6-1,FC Admira Wacker Mödling
+25,Sat Mar 1 2014,FK Austria Wien,2-1,FC Wacker Innsbruck
+25,Sat Mar 1 2014,SV Grödig,1-2,SC Wiener Neustadt
+25,Sat Mar 1 2014,SK Sturm Graz,1-4,Wolfsberger AC
+25,Sat Mar 1 2014,FC Admira Wacker Mödling,2-2,SV Ried
+25,Sun Mar 2 2014,FC RB Salzburg,6-3,SK Rapid Wien
+26,Sat Mar 8 2014,SV Ried,1-3,FC RB Salzburg
+26,Sat Mar 8 2014,Wolfsberger AC,2-3,FC Admira Wacker Mödling
+26,Sat Mar 8 2014,SC Wiener Neustadt,2-1,SK Sturm Graz
+26,Sat Mar 8 2014,FK Austria Wien,2-0,SV Grödig
+26,Sun Mar 9 2014,FC Wacker Innsbruck,1-1,SK Rapid Wien
+27,Sat Mar 15 2014,SV Grödig,1-1,FC Wacker Innsbruck
+27,Sat Mar 15 2014,SK Sturm Graz,1-1,FK Austria Wien
+27,Sat Mar 15 2014,SK Rapid Wien,1-0,SV Ried
+27,Sat Mar 15 2014,FC Admira Wacker Mödling,3-0,SC Wiener Neustadt
+27,Sun Mar 16 2014,FC RB Salzburg,5-0,Wolfsberger AC
+28,Sat Mar 22 2014,SK Rapid Wien,3-0,Wolfsberger AC
+28,Sat Mar 22 2014,FC Admira Wacker Mödling,0-1,FK Austria Wien
+28,Sat Mar 22 2014,SK Sturm Graz,3-1,FC Wacker Innsbruck
+28,Sat Mar 22 2014,SV Ried,1-4,SV Grödig
+28,Sun Mar 23 2014,FC RB Salzburg,5-0,SC Wiener Neustadt
+29,Tue Mar 25 2014,FC Wacker Innsbruck,0-0,FC Admira Wacker Mödling
+29,Wed Mar 26 2014,Wolfsberger AC,0-2,SV Ried
+29,Wed Mar 26 2014,SV Grödig,0-6,SK Sturm Graz
+29,Wed Mar 26 2014,SC Wiener Neustadt,0-3,SK Rapid Wien
+29,Wed Mar 26 2014,FK Austria Wien,3-0,FC RB Salzburg
+30,Sat Mar 29 2014,SK Rapid Wien,2-0,SK Sturm Graz
+30,Sat Mar 29 2014,FC Admira Wacker Mödling,4-0,SV Grödig
+30,Sat Mar 29 2014,FC RB Salzburg,0-0,FC Wacker Innsbruck
+30,Sat Mar 29 2014,Wolfsberger AC,4-0,SC Wiener Neustadt
+30,Sun Mar 30 2014,SV Ried,2-2,FK Austria Wien
+31,Sat Apr 5 2014,SV Grödig,1-3,FC RB Salzburg
+31,Sat Apr 5 2014,SC Wiener Neustadt,1-1,SV Ried
+31,Sat Apr 5 2014,FC Wacker Innsbruck,0-1,Wolfsberger AC
+31,Sat Apr 5 2014,SK Sturm Graz,1-1,FC Admira Wacker Mödling
+31,Sun Apr 6 2014,FK Austria Wien,0-1,SK Rapid Wien
+32,Sat Apr 12 2014,FC RB Salzburg,1-2,SK Sturm Graz
+32,Sat Apr 12 2014,Wolfsberger AC,1-2,SV Grödig
+32,Sat Apr 12 2014,SV Ried,1-2,FC Wacker Innsbruck
+32,Sat Apr 12 2014,SK Rapid Wien,0-0,FC Admira Wacker Mödling
+32,Sun Apr 13 2014,SC Wiener Neustadt,0-2,FK Austria Wien
+33,Sat Apr 19 2014,FK Austria Wien,3-1,Wolfsberger AC
+33,Sat Apr 19 2014,SK Sturm Graz,2-1,SV Ried
+33,Sat Apr 19 2014,FC Wacker Innsbruck,3-1,SC Wiener Neustadt
+33,Sat Apr 19 2014,FC Admira Wacker Mödling,2-3,FC RB Salzburg
+33,Sun Apr 20 2014,SV Grödig,2-2,SK Rapid Wien
+34,Sat Apr 26 2014,SV Ried,3-0,FC Admira Wacker Mödling
+34,Sat Apr 26 2014,SC Wiener Neustadt,1-3,SV Grödig
+34,Sat Apr 26 2014,FC Wacker Innsbruck,1-1,FK Austria Wien
+34,Sat Apr 26 2014,SK Rapid Wien,2-1,FC RB Salzburg
+34,Sun Apr 27 2014,Wolfsberger AC,0-1,SK Sturm Graz
+35,Sun May 4 2014,SK Rapid Wien,2-0,FC Wacker Innsbruck
+35,Sun May 4 2014,SV Grödig,2-1,FK Austria Wien
+35,Sun May 4 2014,FC Admira Wacker Mödling,1-0,Wolfsberger AC
+35,Sun May 4 2014,SK Sturm Graz,1-2,SC Wiener Neustadt
+35,Sun May 4 2014,FC RB Salzburg,4-0,SV Ried
+36,Sun May 11 2014,FC Wacker Innsbruck,3-3,SV Grödig
+36,Sun May 11 2014,FK Austria Wien,1-2,SK Sturm Graz
+36,Sun May 11 2014,Wolfsberger AC,2-0,FC RB Salzburg
+36,Sun May 11 2014,SV Ried,2-5,SK Rapid Wien
+36,Mon May 12 2014,SC Wiener Neustadt,5-2,FC Admira Wacker Mödling

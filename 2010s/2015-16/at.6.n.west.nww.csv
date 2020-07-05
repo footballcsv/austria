@@ -1,0 +1,183 @@
+Round,Date,Team 1,FT,Team 2
+1,Sun Aug 16 2015,SC Echsenbach,0-2,SV Zwentendorf
+1,Sun Aug 16 2015,Horn Amateure,4-0,USC Grafenwörth
+1,Sun Aug 16 2015,SV Rehberg,4-0,USV Raabs/Thaya
+1,Sun Aug 16 2015,USC Schweiggers,2-1,SC St. Martin
+1,Sun Aug 16 2015,USV Langenlois,2-3,USV Groß Gerungs
+1,Sun Aug 16 2015,SC Admira Gföhl,5-2,SC Weißenkirchen
+1,Sun Aug 16 2015,SV Sieghartskirchen,0-1,USC Altenwörth
+2,Sun Aug 23 2015,SV Zwentendorf,1-1,SC Admira Gföhl
+2,Sun Aug 23 2015,Horn Amateure,1-3,SV Sieghartskirchen
+2,Sun Aug 23 2015,USV Raabs/Thaya,0-2,SC Echsenbach
+2,Sun Aug 23 2015,USC Schweiggers,3-1,USC Grafenwörth
+2,Sun Aug 23 2015,USC Altenwörth,3-0,SV Rehberg
+2,Sun Aug 23 2015,USV Langenlois,2-0,SC St. Martin
+2,Sun Aug 23 2015,USV Groß Gerungs,3-1,SC Weißenkirchen
+3,Sun Aug 30 2015,USV Langenlois,1-1,USC Grafenwörth
+3,Sun Aug 30 2015,SV Rehberg,3-0,Horn Amateure
+3,Sun Aug 30 2015,SC Admira Gföhl,0-1,USV Raabs/Thaya
+3,Sun Aug 30 2015,SV Sieghartskirchen,1-0,USC Schweiggers
+3,Sun Aug 30 2015,SC St. Martin,2-2,USV Groß Gerungs
+3,Sun Aug 30 2015,SC Echsenbach,1-1,USC Altenwörth
+3,Sun Aug 30 2015,SC Weißenkirchen,3-0,SV Zwentendorf
+4,Sun Sep 6 2015,USV Groß Gerungs,2-1,SV Zwentendorf
+4,Sun Sep 6 2015,Horn Amateure,3-2,SC Echsenbach
+4,Sun Sep 6 2015,USC Altenwörth,1-2,SC Admira Gföhl
+4,Sun Sep 6 2015,USV Raabs/Thaya,0-3,SC Weißenkirchen
+4,Sun Sep 6 2015,SC St. Martin,2-2,USC Grafenwörth
+4,Sun Sep 6 2015,USV Langenlois,1-2,SV Sieghartskirchen
+4,Sun Sep 6 2015,USC Schweiggers,1-0,SV Rehberg
+5,Sun Sep 13 2015,USV Groß Gerungs,4-0,USC Grafenwörth
+5,Sun Sep 13 2015,SC Echsenbach,1-1,USC Schweiggers
+5,Sun Sep 13 2015,SV Zwentendorf,0-0,USV Raabs/Thaya
+5,Sun Sep 13 2015,SC Admira Gföhl,2-0,Horn Amateure
+5,Sun Sep 13 2015,SV Rehberg,0-1,USV Langenlois
+5,Sun Sep 13 2015,SC Weißenkirchen,2-2,USC Altenwörth
+5,Sun Sep 13 2015,SV Sieghartskirchen,3-1,SC St. Martin
+6,Sun Sep 20 2015,SV Sieghartskirchen,1-1,USC Grafenwörth
+6,Sun Sep 20 2015,Horn Amateure,1-4,SC Weißenkirchen
+6,Sun Sep 20 2015,USV Groß Gerungs,3-0,USV Raabs/Thaya
+6,Sun Sep 20 2015,SC St. Martin,1-6,SV Rehberg
+6,Sun Sep 20 2015,USC Altenwörth,2-1,SV Zwentendorf
+6,Sun Sep 20 2015,USV Langenlois,2-0,SC Echsenbach
+6,Sun Sep 20 2015,USC Schweiggers,2-2,SC Admira Gföhl
+7,Sun Sep 27 2015,SC Admira Gföhl,2-2,USV Langenlois
+7,Sun Sep 27 2015,SV Rehberg,1-0,USC Grafenwörth
+7,Sun Sep 27 2015,SV Sieghartskirchen,3-0,USV Groß Gerungs
+7,Sun Sep 27 2015,USV Raabs/Thaya,2-3,USC Altenwörth
+7,Sun Sep 27 2015,SV Zwentendorf,3-2,Horn Amateure
+7,Sun Sep 27 2015,SC Weißenkirchen,5-0,USC Schweiggers
+7,Sun Sep 27 2015,SC Echsenbach,3-2,SC St. Martin
+8,Sun Oct 4 2015,SC Echsenbach,3-3,USC Grafenwörth
+8,Sun Oct 4 2015,USC Schweiggers,4-1,SV Zwentendorf
+8,Sun Oct 4 2015,Horn Amateure,2-0,USV Raabs/Thaya
+8,Sun Oct 4 2015,USV Groß Gerungs,1-1,USC Altenwörth
+8,Sun Oct 4 2015,USV Langenlois,1-2,SC Weißenkirchen
+8,Sun Oct 4 2015,SV Sieghartskirchen,1-0,SV Rehberg
+8,Sun Oct 4 2015,SC St. Martin,3-3,SC Admira Gföhl
+9,Sun Oct 11 2015,SC Admira Gföhl,3-1,USC Grafenwörth
+9,Sun Oct 11 2015,USV Raabs/Thaya,0-0,USC Schweiggers
+9,Sun Oct 11 2015,SC Echsenbach,0-3,SV Sieghartskirchen
+9,Sun Oct 11 2015,SV Rehberg,4-1,USV Groß Gerungs
+9,Sun Oct 11 2015,USC Altenwörth,4-2,Horn Amateure
+9,Sun Oct 11 2015,SC Weißenkirchen,3-1,SC St. Martin
+9,Sun Oct 11 2015,SV Zwentendorf,1-1,USV Langenlois
+10,Sun Oct 18 2015,SC Weißenkirchen,0-0,USC Grafenwörth
+10,Sun Oct 18 2015,USV Langenlois,0-0,USV Raabs/Thaya
+10,Sun Oct 18 2015,USV Groß Gerungs,3-0,Horn Amateure
+10,Sun Oct 18 2015,SV Rehberg,3-0,SC Echsenbach
+10,Sun Oct 18 2015,SV Sieghartskirchen,2-0,SC Admira Gföhl
+10,Sun Oct 18 2015,USC Schweiggers,4-0,USC Altenwörth
+10,Sun Oct 18 2015,SC St. Martin,2-1,SV Zwentendorf
+11,Sun Oct 25 2015,USV Langenlois,0-0,USC Altenwörth
+11,Sun Oct 25 2015,Horn Amateure,4-0,USC Schweiggers
+11,Sun Oct 25 2015,SC Admira Gföhl,1-1,SV Rehberg
+11,Sun Oct 25 2015,USV Raabs/Thaya,3-1,SC St. Martin
+11,Sun Oct 25 2015,SC Weißenkirchen,2-5,SV Sieghartskirchen
+11,Sun Oct 25 2015,SC Echsenbach,0-5,USV Groß Gerungs
+11,Sun Oct 25 2015,SV Zwentendorf,2-1,USC Grafenwörth
+12,Sun Nov 1 2015,USV Raabs/Thaya,1-2,USC Grafenwörth
+12,Sun Nov 1 2015,SV Rehberg,2-2,SC Weißenkirchen
+12,Sun Nov 1 2015,SC St. Martin,2-1,USC Altenwörth
+12,Sun Nov 1 2015,USV Groß Gerungs,0-0,USC Schweiggers
+12,Sun Nov 1 2015,USV Langenlois,5-1,Horn Amateure
+12,Sun Nov 1 2015,SC Echsenbach,0-4,SC Admira Gföhl
+12,Sun Nov 1 2015,SV Sieghartskirchen,5-0,SV Zwentendorf
+13,Sun Nov 8 2015,USC Schweiggers,1-1,USV Langenlois
+13,Sun Nov 8 2015,SV Zwentendorf,0-0,SV Rehberg
+13,Sun Nov 8 2015,SC Admira Gföhl,1-1,USV Groß Gerungs
+13,Sun Nov 8 2015,USC Altenwörth,0-6,USC Grafenwörth
+13,Sun Nov 8 2015,Horn Amateure,5-1,SC St. Martin
+13,Sun Nov 8 2015,SC Weißenkirchen,4-2,SC Echsenbach
+13,Sun Nov 8 2015,USV Raabs/Thaya,1-1,SV Sieghartskirchen
+26,Sun Mar 20 2016,USC Grafenwörth,1-1,USC Altenwörth
+26,Sun Mar 20 2016,USV Langenlois,0-1,USC Schweiggers
+26,Sun Mar 20 2016,SV Sieghartskirchen,5-1,USV Raabs/Thaya
+26,Sun Mar 20 2016,USV Groß Gerungs,3-0,SC Admira Gföhl
+26,Sun Mar 20 2016,SC St. Martin,2-1,Horn Amateure
+26,Sun Mar 20 2016,SV Rehberg,2-0,SV Zwentendorf
+26,Sun Mar 20 2016,SC Echsenbach,3-2,SC Weißenkirchen
+14,Sun Mar 27 2016,USC Grafenwörth,1-2,Horn Amateure
+14,Sun Mar 27 2016,SC Weißenkirchen,4-0,SC Admira Gföhl
+14,Sun Mar 27 2016,USV Raabs/Thaya,2-1,SV Rehberg
+14,Sun Mar 27 2016,SC St. Martin,1-1,USC Schweiggers
+14,Sun Mar 27 2016,SV Zwentendorf,0-2,SC Echsenbach
+14,Sun Mar 27 2016,USV Groß Gerungs,1-1,USV Langenlois
+14,Sun Mar 27 2016,USC Altenwörth,1-0,SV Sieghartskirchen
+15,Sun Apr 3 2016,SC Weißenkirchen,2-0,USV Groß Gerungs
+15,Sun Apr 3 2016,SV Rehberg,5-3,USC Altenwörth
+15,Sun Apr 3 2016,SC Admira Gföhl,1-0,SV Zwentendorf
+15,Sun Apr 3 2016,SV Sieghartskirchen,1-1,Horn Amateure
+15,Sun Apr 3 2016,SC St. Martin,0-1,USV Langenlois
+15,Sun Apr 3 2016,USC Grafenwörth,1-1,USC Schweiggers
+15,Sun Apr 3 2016,SC Echsenbach,1-0,USV Raabs/Thaya
+16,Sun Apr 10 2016,USC Grafenwörth,1-0,USV Langenlois
+16,Sun Apr 10 2016,USV Raabs/Thaya,0-1,SC Admira Gföhl
+16,Sun Apr 10 2016,SV Zwentendorf,0-0,SC Weißenkirchen
+16,Sun Apr 10 2016,USC Schweiggers,4-2,SV Sieghartskirchen
+16,Sun Apr 10 2016,USC Altenwörth,1-2,SC Echsenbach
+16,Sun Apr 10 2016,Horn Amateure,2-2,SV Rehberg
+16,Sun Apr 10 2016,USV Groß Gerungs,2-2,SC St. Martin
+17,Sun Apr 17 2016,SC Weißenkirchen,5-2,USV Raabs/Thaya
+17,Sun Apr 17 2016,USC Grafenwörth,2-2,SC St. Martin
+17,Sun Apr 17 2016,SV Rehberg,0-0,USC Schweiggers
+17,Sun Apr 17 2016,SC Echsenbach,2-3,Horn Amateure
+17,Sun Apr 17 2016,SV Zwentendorf,2-2,USV Groß Gerungs
+17,Sun Apr 17 2016,SC Admira Gföhl,3-0,USC Altenwörth
+17,Sun Apr 17 2016,SV Sieghartskirchen,1-1,USV Langenlois
+18,Sun Apr 24 2016,USC Grafenwörth,2-1,USV Groß Gerungs
+18,Sun Apr 24 2016,Horn Amateure,5-0,SC Admira Gföhl
+18,Sun Apr 24 2016,USC Schweiggers,1-0,SC Echsenbach
+18,Sun Apr 24 2016,USV Raabs/Thaya,0-4,SV Zwentendorf
+18,Sun Apr 24 2016,SC St. Martin,0-3,SV Sieghartskirchen
+18,Sun Apr 24 2016,USC Altenwörth,1-0,SC Weißenkirchen
+18,Sun Apr 24 2016,USV Langenlois,0-1,SV Rehberg
+19,Sun May 1 2016,USC Grafenwörth,1-3,SV Sieghartskirchen
+19,Sun May 1 2016,SC Weißenkirchen,6-1,Horn Amateure
+19,Sun May 1 2016,SV Zwentendorf,1-1,USC Altenwörth
+19,Sun May 1 2016,USV Raabs/Thaya,0-0,USV Groß Gerungs
+19,Sun May 1 2016,SC Admira Gföhl,1-1,USC Schweiggers
+19,Sun May 1 2016,SC Echsenbach,1-1,USV Langenlois
+19,Sun May 1 2016,SV Rehberg,3-2,SC St. Martin
+20,Sun May 8 2016,USV Langenlois,3-3,SC Admira Gföhl
+20,Sun May 8 2016,SC St. Martin,1-0,SC Echsenbach
+20,Sun May 8 2016,Horn Amateure,8-0,SV Zwentendorf
+20,Sun May 8 2016,USC Schweiggers,1-0,SC Weißenkirchen
+20,Sun May 8 2016,USV Groß Gerungs,4-3,SV Sieghartskirchen
+20,Sun May 8 2016,USC Grafenwörth,0-0,SV Rehberg
+20,Sun May 8 2016,USC Altenwörth,2-0,USV Raabs/Thaya
+21,Sun May 15 2016,USC Grafenwörth,0-0,SC Echsenbach
+21,Sun May 15 2016,SC Admira Gföhl,3-3,SC St. Martin
+21,Sun May 15 2016,SV Rehberg,1-0,SV Sieghartskirchen
+21,Sun May 15 2016,SC Weißenkirchen,0-1,USV Langenlois
+21,Sun May 15 2016,USC Altenwörth,1-4,USV Groß Gerungs
+21,Sun May 15 2016,USV Raabs/Thaya,1-11,Horn Amateure
+21,Sun May 15 2016,SV Zwentendorf,0-4,USC Schweiggers
+22,Sun May 22 2016,SC St. Martin,1-6,SC Weißenkirchen
+22,Sun May 22 2016,Horn Amateure,1-6,USC Altenwörth
+22,Sun May 22 2016,USV Groß Gerungs,1-2,SV Rehberg
+22,Sun May 22 2016,USC Schweiggers,5-0,USV Raabs/Thaya
+22,Sun May 22 2016,USV Langenlois,8-1,SV Zwentendorf
+22,Sun May 22 2016,SV Sieghartskirchen,2-1,SC Echsenbach
+22,Sun May 22 2016,USC Grafenwörth,2-1,SC Admira Gföhl
+23,Sun May 29 2016,USC Grafenwörth,0-2,SC Weißenkirchen
+23,Sun May 29 2016,SV Zwentendorf,3-4,SC St. Martin
+23,Sun May 29 2016,SC Echsenbach,0-5,SV Rehberg
+23,Sun May 29 2016,USC Altenwörth,0-7,USC Schweiggers
+23,Sun May 29 2016,SC Admira Gföhl,0-4,SV Sieghartskirchen
+23,Sun May 29 2016,USV Raabs/Thaya,0-2,USV Langenlois
+23,Sun May 29 2016,Horn Amateure,0-5,USV Groß Gerungs
+24,Sun Jun 5 2016,SV Sieghartskirchen,2-4,SC Weißenkirchen
+24,Sun Jun 5 2016,USC Schweiggers,5-0,Horn Amateure
+24,Sun Jun 5 2016,USC Grafenwörth,1-1,SV Zwentendorf
+24,Sun Jun 5 2016,SC St. Martin,5-2,USV Raabs/Thaya
+24,Sun Jun 5 2016,USC Altenwörth,0-4,USV Langenlois
+24,Sun Jun 5 2016,USV Groß Gerungs,5-1,SC Echsenbach
+24,Sun Jun 5 2016,SV Rehberg,3-3,SC Admira Gföhl
+25,Sun Jun 12 2016,USC Grafenwörth,3-2,USV Raabs/Thaya
+25,Sun Jun 12 2016,USC Altenwörth,2-0,SC St. Martin
+25,Sun Jun 12 2016,SC Weißenkirchen,2-5,SV Rehberg
+25,Sun Jun 12 2016,Horn Amateure,2-2,USV Langenlois
+25,Sun Jun 12 2016,SV Zwentendorf,1-3,SV Sieghartskirchen
+25,Sun Jun 12 2016,SC Admira Gföhl,3-1,SC Echsenbach
+25,Sun Jun 12 2016,USC Schweiggers,2-3,USV Groß Gerungs

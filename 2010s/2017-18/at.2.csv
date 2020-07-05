@@ -1,0 +1,181 @@
+Round,Date,Team 1,FT,Team 2
+1,Fri Jul 21 2017,Floridsdorfer AC,1-5,Austria Lustenau
+1,Fri Jul 21 2017,WSG Tirol,0-1,TSV Hartberg
+1,Fri Jul 21 2017,Kapfenberger SV,1-2,FC Liefering
+1,Fri Jul 21 2017,FC Blau-Weiß Linz,1-1,FC Wacker Innsbruck
+1,Fri Jul 21 2017,SV Ried,0-1,SC Wiener Neustadt
+2,Fri Jul 28 2017,FC Liefering,0-1,WSG Tirol
+2,Fri Jul 28 2017,TSV Hartberg,3-1,Floridsdorfer AC
+2,Fri Jul 28 2017,FC Wacker Innsbruck,0-0,Kapfenberger SV
+2,Fri Jul 28 2017,SC Wiener Neustadt,4-0,FC Blau-Weiß Linz
+2,Fri Jul 28 2017,Austria Lustenau,0-2,SV Ried
+3,Fri Aug 4 2017,SV Ried,3-2,Floridsdorfer AC
+3,Fri Aug 4 2017,Austria Lustenau,2-3,SC Wiener Neustadt
+3,Fri Aug 4 2017,WSG Tirol,3-1,Kapfenberger SV
+3,Fri Aug 4 2017,FC Blau-Weiß Linz,2-3,FC Liefering
+4,Mon Aug 7 2017,FC Liefering,4-0,SV Ried
+4,Tue Aug 8 2017,FC Wacker Innsbruck,3-2,Austria Lustenau
+4,Tue Aug 8 2017,Kapfenberger SV,0-1,FC Blau-Weiß Linz
+4,Tue Aug 8 2017,SC Wiener Neustadt,1-0,TSV Hartberg
+4,Tue Aug 8 2017,Floridsdorfer AC,1-0,WSG Tirol
+5,Fri Aug 11 2017,Austria Lustenau,1-2,Kapfenberger SV
+5,Fri Aug 11 2017,TSV Hartberg,2-2,FC Liefering
+5,Fri Aug 11 2017,FC Blau-Weiß Linz,1-1,SV Ried
+5,Fri Aug 11 2017,Floridsdorfer AC,0-3,SC Wiener Neustadt
+5,Fri Aug 11 2017,WSG Tirol,1-3,FC Wacker Innsbruck
+6,Mon Aug 14 2017,SV Ried,4-1,FC Wacker Innsbruck
+6,Tue Aug 15 2017,FC Liefering,3-1,Floridsdorfer AC
+6,Tue Aug 15 2017,WSG Tirol,1-2,Austria Lustenau
+6,Tue Aug 15 2017,Kapfenberger SV,0-0,SC Wiener Neustadt
+6,Tue Aug 15 2017,FC Blau-Weiß Linz,1-1,TSV Hartberg
+7,Fri Aug 18 2017,Austria Lustenau,1-1,FC Blau-Weiß Linz
+7,Fri Aug 18 2017,SC Wiener Neustadt,2-1,WSG Tirol
+7,Fri Aug 18 2017,Floridsdorfer AC,0-3,Kapfenberger SV
+7,Fri Aug 18 2017,TSV Hartberg,2-2,SV Ried
+7,Fri Aug 18 2017,FC Wacker Innsbruck,1-0,FC Liefering
+3,Mon Aug 21 2017,TSV Hartberg,3-1,FC Wacker Innsbruck
+8,Fri Aug 25 2017,SV Ried,4-0,WSG Tirol
+8,Fri Aug 25 2017,FC Liefering,0-0,Austria Lustenau
+8,Fri Aug 25 2017,FC Wacker Innsbruck,3-0,SC Wiener Neustadt
+8,Fri Aug 25 2017,FC Blau-Weiß Linz,4-0,Floridsdorfer AC
+8,Fri Aug 25 2017,TSV Hartberg,4-0,Kapfenberger SV
+9,Fri Sep 8 2017,Austria Lustenau,1-2,TSV Hartberg
+9,Fri Sep 8 2017,WSG Tirol,2-2,FC Blau-Weiß Linz
+9,Fri Sep 8 2017,Kapfenberger SV,2-1,SV Ried
+9,Fri Sep 8 2017,SC Wiener Neustadt,2-0,FC Liefering
+9,Fri Sep 8 2017,Floridsdorfer AC,1-1,FC Wacker Innsbruck
+10,Mon Sep 11 2017,SC Wiener Neustadt,0-3,SV Ried
+10,Tue Sep 12 2017,Austria Lustenau,5-0,Floridsdorfer AC
+10,Tue Sep 12 2017,TSV Hartberg,2-1,WSG Tirol
+10,Tue Sep 12 2017,FC Liefering,2-1,Kapfenberger SV
+10,Tue Sep 12 2017,FC Wacker Innsbruck,3-0,FC Blau-Weiß Linz
+11,Fri Sep 15 2017,WSG Tirol,3-2,FC Liefering
+11,Fri Sep 15 2017,Floridsdorfer AC,2-0,TSV Hartberg
+11,Fri Sep 15 2017,Kapfenberger SV,2-1,FC Wacker Innsbruck
+11,Fri Sep 15 2017,FC Blau-Weiß Linz,1-1,SC Wiener Neustadt
+11,Fri Sep 15 2017,SV Ried,3-1,Austria Lustenau
+12,Fri Sep 22 2017,Floridsdorfer AC,1-4,SV Ried
+12,Fri Sep 22 2017,SC Wiener Neustadt,1-1,Austria Lustenau
+12,Fri Sep 22 2017,Kapfenberger SV,1-1,WSG Tirol
+12,Fri Sep 22 2017,FC Liefering,3-0,FC Blau-Weiß Linz
+12,Fri Sep 22 2017,FC Wacker Innsbruck,0-0,TSV Hartberg
+13,Fri Sep 29 2017,SV Ried,6-1,FC Liefering
+13,Fri Sep 29 2017,Austria Lustenau,0-4,FC Wacker Innsbruck
+13,Fri Sep 29 2017,FC Blau-Weiß Linz,0-2,Kapfenberger SV
+13,Fri Sep 29 2017,TSV Hartberg,0-1,SC Wiener Neustadt
+13,Fri Sep 29 2017,WSG Tirol,5-1,Floridsdorfer AC
+14,Fri Oct 13 2017,Kapfenberger SV,0-1,Austria Lustenau
+14,Fri Oct 13 2017,FC Liefering,3-1,TSV Hartberg
+14,Fri Oct 13 2017,SV Ried,2-1,FC Blau-Weiß Linz
+14,Fri Oct 13 2017,SC Wiener Neustadt,1-2,Floridsdorfer AC
+14,Fri Oct 13 2017,FC Wacker Innsbruck,1-0,WSG Tirol
+15,Fri Oct 20 2017,FC Wacker Innsbruck,1-1,SV Ried
+15,Fri Oct 20 2017,Floridsdorfer AC,2-2,FC Liefering
+15,Fri Oct 20 2017,Austria Lustenau,2-0,WSG Tirol
+15,Fri Oct 20 2017,SC Wiener Neustadt,4-2,Kapfenberger SV
+15,Fri Oct 20 2017,TSV Hartberg,2-0,FC Blau-Weiß Linz
+16,Mon Oct 30 2017,FC Liefering,1-0,FC Wacker Innsbruck
+16,Tue Oct 31 2017,FC Blau-Weiß Linz,1-2,Austria Lustenau
+16,Tue Oct 31 2017,WSG Tirol,0-1,SC Wiener Neustadt
+16,Tue Oct 31 2017,Kapfenberger SV,4-1,Floridsdorfer AC
+16,Tue Oct 31 2017,SV Ried,2-3,TSV Hartberg
+17,Fri Nov 3 2017,WSG Tirol,1-2,SV Ried
+17,Fri Nov 3 2017,Austria Lustenau,2-4,FC Liefering
+17,Fri Nov 3 2017,SC Wiener Neustadt,0-1,FC Wacker Innsbruck
+17,Fri Nov 3 2017,Floridsdorfer AC,0-0,FC Blau-Weiß Linz
+17,Fri Nov 3 2017,Kapfenberger SV,0-2,TSV Hartberg
+18,Fri Nov 17 2017,TSV Hartberg,0-0,Austria Lustenau
+18,Fri Nov 17 2017,FC Blau-Weiß Linz,0-2,WSG Tirol
+18,Fri Nov 17 2017,SV Ried,2-0,Kapfenberger SV
+18,Fri Nov 17 2017,FC Liefering,0-0,SC Wiener Neustadt
+18,Fri Nov 17 2017,FC Wacker Innsbruck,3-0,Floridsdorfer AC
+19,Fri Nov 24 2017,SV Ried,2-2,SC Wiener Neustadt
+19,Fri Nov 24 2017,WSG Tirol,1-4,TSV Hartberg
+19,Fri Nov 24 2017,Kapfenberger SV,0-5,FC Liefering
+19,Fri Nov 24 2017,FC Blau-Weiß Linz,1-2,FC Wacker Innsbruck
+19,Fri Nov 24 2017,Floridsdorfer AC,2-1,Austria Lustenau
+20,Fri Dec 1 2017,FC Liefering,2-2,WSG Tirol
+20,Fri Dec 1 2017,Austria Lustenau,0-0,SV Ried
+20,Fri Dec 1 2017,FC Wacker Innsbruck,1-1,Kapfenberger SV
+20,Fri Dec 1 2017,SC Wiener Neustadt,6-3,FC Blau-Weiß Linz
+20,Fri Dec 1 2017,TSV Hartberg,1-2,Floridsdorfer AC
+21,Fri Feb 23 2018,SV Ried,1-1,Floridsdorfer AC
+21,Fri Feb 23 2018,Austria Lustenau,2-1,SC Wiener Neustadt
+21,Fri Feb 23 2018,FC Blau-Weiß Linz,2-1,FC Liefering
+21,Fri Feb 23 2018,TSV Hartberg,0-2,FC Wacker Innsbruck
+22,Fri Mar 2 2018,FC Wacker Innsbruck,2-1,Austria Lustenau
+22,Fri Mar 2 2018,FC Liefering,1-1,SV Ried
+23,Fri Mar 9 2018,Austria Lustenau,3-1,Kapfenberger SV
+23,Fri Mar 9 2018,WSG Tirol,1-2,FC Wacker Innsbruck
+23,Fri Mar 9 2018,FC Blau-Weiß Linz,2-2,SV Ried
+23,Fri Mar 9 2018,Floridsdorfer AC,0-3,SC Wiener Neustadt
+23,Fri Mar 9 2018,TSV Hartberg,0-2,FC Liefering
+21,Mon Mar 12 2018,WSG Tirol,3-2,Kapfenberger SV
+22,Mon Mar 12 2018,SC Wiener Neustadt,1-1,TSV Hartberg
+24,Fri Mar 16 2018,SV Ried,1-3,FC Wacker Innsbruck
+24,Fri Mar 16 2018,FC Liefering,1-0,Floridsdorfer AC
+24,Fri Mar 16 2018,WSG Tirol,2-0,Austria Lustenau
+24,Fri Mar 16 2018,Kapfenberger SV,0-0,SC Wiener Neustadt
+24,Fri Mar 16 2018,FC Blau-Weiß Linz,1-3,TSV Hartberg
+22,Tue Mar 20 2018,Kapfenberger SV,1-4,FC Blau-Weiß Linz
+25,Fri Mar 30 2018,Austria Lustenau,1-0,FC Blau-Weiß Linz
+25,Fri Mar 30 2018,FC Wacker Innsbruck,2-1,FC Liefering
+25,Fri Mar 30 2018,SC Wiener Neustadt,2-2,WSG Tirol
+25,Fri Mar 30 2018,Floridsdorfer AC,0-1,Kapfenberger SV
+25,Fri Mar 30 2018,TSV Hartberg,1-0,SV Ried
+26,Mon Apr 2 2018,FC Wacker Innsbruck,2-0,SC Wiener Neustadt
+26,Tue Apr 3 2018,SV Ried,2-0,WSG Tirol
+26,Tue Apr 3 2018,FC Liefering,1-1,Austria Lustenau
+26,Tue Apr 3 2018,FC Blau-Weiß Linz,1-0,Floridsdorfer AC
+26,Tue Apr 3 2018,TSV Hartberg,4-0,Kapfenberger SV
+27,Fri Apr 6 2018,Austria Lustenau,0-4,TSV Hartberg
+27,Fri Apr 6 2018,WSG Tirol,1-0,FC Blau-Weiß Linz
+27,Fri Apr 6 2018,Kapfenberger SV,0-0,SV Ried
+27,Fri Apr 6 2018,SC Wiener Neustadt,0-2,FC Liefering
+27,Fri Apr 6 2018,Floridsdorfer AC,0-2,FC Wacker Innsbruck
+22,Tue Apr 10 2018,Floridsdorfer AC,0-0,WSG Tirol
+28,Fri Apr 13 2018,SC Wiener Neustadt,1-0,SV Ried
+28,Fri Apr 13 2018,TSV Hartberg,4-0,WSG Tirol
+28,Fri Apr 13 2018,FC Liefering,1-1,Kapfenberger SV
+28,Fri Apr 13 2018,FC Wacker Innsbruck,4-0,FC Blau-Weiß Linz
+28,Fri Apr 13 2018,Austria Lustenau,2-1,Floridsdorfer AC
+29,Fri Apr 20 2018,WSG Tirol,0-0,FC Liefering
+29,Fri Apr 20 2018,SV Ried,2-0,Austria Lustenau
+29,Fri Apr 20 2018,Kapfenberger SV,2-1,FC Wacker Innsbruck
+29,Fri Apr 20 2018,FC Blau-Weiß Linz,0-3,SC Wiener Neustadt
+29,Fri Apr 20 2018,Floridsdorfer AC,0-1,TSV Hartberg
+30,Mon Apr 23 2018,Floridsdorfer AC,2-4,SV Ried
+30,Tue Apr 24 2018,SC Wiener Neustadt,2-2,Austria Lustenau
+30,Tue Apr 24 2018,Kapfenberger SV,2-3,WSG Tirol
+30,Tue Apr 24 2018,FC Liefering,1-1,FC Blau-Weiß Linz
+30,Tue Apr 24 2018,FC Wacker Innsbruck,0-0,TSV Hartberg
+31,Fri Apr 27 2018,SV Ried,1-0,FC Liefering
+31,Fri Apr 27 2018,Austria Lustenau,1-2,FC Wacker Innsbruck
+31,Fri Apr 27 2018,FC Blau-Weiß Linz,0-2,Kapfenberger SV
+31,Fri Apr 27 2018,TSV Hartberg,2-1,SC Wiener Neustadt
+31,Fri Apr 27 2018,WSG Tirol,2-0,Floridsdorfer AC
+32,Fri May 4 2018,Kapfenberger SV,0-2,Austria Lustenau
+32,Fri May 4 2018,FC Wacker Innsbruck,2-0,WSG Tirol
+32,Fri May 4 2018,SV Ried,1-0,FC Blau-Weiß Linz
+32,Fri May 4 2018,SC Wiener Neustadt,1-0,Floridsdorfer AC
+32,Fri May 4 2018,FC Liefering,3-2,TSV Hartberg
+33,Fri May 11 2018,FC Wacker Innsbruck,3-1,SV Ried
+33,Fri May 11 2018,Floridsdorfer AC,3-2,FC Liefering
+33,Fri May 11 2018,Austria Lustenau,2-2,WSG Tirol
+33,Fri May 11 2018,SC Wiener Neustadt,2-1,Kapfenberger SV
+33,Fri May 11 2018,TSV Hartberg,2-2,FC Blau-Weiß Linz
+34,Fri May 18 2018,FC Blau-Weiß Linz,0-2,Austria Lustenau
+34,Fri May 18 2018,FC Liefering,2-2,FC Wacker Innsbruck
+34,Fri May 18 2018,WSG Tirol,1-1,SC Wiener Neustadt
+34,Fri May 18 2018,Kapfenberger SV,3-3,Floridsdorfer AC
+34,Fri May 18 2018,SV Ried,0-1,TSV Hartberg
+35,Mon May 21 2018,WSG Tirol,1-1,SV Ried
+35,Mon May 21 2018,Austria Lustenau,0-0,FC Liefering
+35,Mon May 21 2018,SC Wiener Neustadt,1-0,FC Wacker Innsbruck
+35,Mon May 21 2018,Floridsdorfer AC,5-0,FC Blau-Weiß Linz
+35,Mon May 21 2018,Kapfenberger SV,1-3,TSV Hartberg
+36,Fri May 25 2018,TSV Hartberg,2-0,Austria Lustenau
+36,Fri May 25 2018,FC Blau-Weiß Linz,2-2,WSG Tirol
+36,Fri May 25 2018,SV Ried,7-1,Kapfenberger SV
+36,Fri May 25 2018,FC Liefering,1-1,SC Wiener Neustadt
+36,Fri May 25 2018,FC Wacker Innsbruck,0-2,Floridsdorfer AC
