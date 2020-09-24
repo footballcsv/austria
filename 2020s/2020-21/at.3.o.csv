@@ -1,0 +1,157 @@
+Round,Date,Team 1,FT,Team 2
+1,Fri Aug 21 2020,ASK-BSC Bruck/Leitha,3-0,1. Wiener Neustädter SC
+1,Fri Aug 21 2020,SV Leobendorf,1-0,SC Neusiedl am See
+1,Sat Aug 22 2020,SV Stripfing,,SC Team Wiener Linien
+1,Sat Aug 22 2020,Wiener Viktoria,1-2,FC Admira Wacker Mödling II
+1,Sat Aug 22 2020,FC Mauerwerk,3-1,ASV Draßburg
+2,Tue Aug 25 2020,ASK-BSC Bruck/Leitha,3-0,Wiener Viktoria
+2,Tue Aug 25 2020,FCM Traiskirchen,0-2,FC Marchfeld
+2,Tue Sep 1 2020,ASV Draßburg,3-4,SV Leobendorf
+2,Tue Sep 1 2020,FC Admira Wacker Mödling II,,Wiener Sport-Club
+3,Fri Sep 4 2020,Wiener Sport-Club,2-1,ASK-BSC Bruck/Leitha
+3,Fri Sep 4 2020,SC Neusiedl am See,3-0,ASV Draßburg
+3,Sat Sep 5 2020,SV Leobendorf,2-1,SC Team Wiener Linien
+3,Sat Sep 5 2020,SV Stripfing,3-0,FC Marchfeld
+3,Sat Sep 5 2020,Wiener Viktoria,0-0,1. Wiener Neustädter SC
+2,Tue Sep 8 2020,SC Team Wiener Linien,,FC Mauerwerk
+3,Tue Sep 8 2020,FCM Traiskirchen,3-1,FC Admira Wacker Mödling II
+4,Fri Sep 11 2020,1. Wiener Neustädter SC,0-1,ASV Draßburg
+4,Fri Sep 11 2020,FC Marchfeld,,FC Mauerwerk
+4,Sat Sep 12 2020,FC Admira Wacker Mödling II,1-2,SV Stripfing
+4,Sat Sep 12 2020,Wiener Viktoria,0-3,Wiener Sport-Club
+4,Sat Sep 12 2020,SC Team Wiener Linien,2-0,SC Neusiedl am See
+1,Tue Sep 15 2020,Wiener Sport-Club,,FC Marchfeld
+2,Tue Sep 15 2020,1. Wiener Neustädter SC,,SC Neusiedl am See
+4,Tue Sep 15 2020,ASK-BSC Bruck/Leitha,,FCM Traiskirchen
+5,Fri Sep 18 2020,ASV Draßburg,,SC Team Wiener Linien
+5,Fri Sep 18 2020,Wiener Sport-Club,,1. Wiener Neustädter SC
+5,Fri Sep 18 2020,FCM Traiskirchen,,Wiener Viktoria
+5,Sat Sep 19 2020,SV Leobendorf,,FC Marchfeld
+5,Sat Sep 19 2020,SV Stripfing,,ASK-BSC Bruck/Leitha
+5,Sun Sep 20 2020,FC Mauerwerk,,FC Admira Wacker Mödling II
+6,Fri Sep 25 2020,Wiener Viktoria,,SV Stripfing
+6,Fri Sep 25 2020,ASK-BSC Bruck/Leitha,,FC Mauerwerk
+6,Fri Sep 25 2020,Wiener Sport-Club,,FCM Traiskirchen
+6,Fri Sep 25 2020,1. Wiener Neustädter SC,,SC Team Wiener Linien
+6,Fri Sep 25 2020,FC Marchfeld,,SC Neusiedl am See
+6,Sun Sep 27 2020,FC Admira Wacker Mödling II,,SV Leobendorf
+7,Fri Oct 2 2020,SC Neusiedl am See,,FC Admira Wacker Mödling II
+7,Fri Oct 2 2020,FCM Traiskirchen,,1. Wiener Neustädter SC
+7,Fri Oct 2 2020,ASV Draßburg,,FC Marchfeld
+7,Sat Oct 3 2020,SV Stripfing,,Wiener Sport-Club
+7,Sat Oct 3 2020,SV Leobendorf,,ASK-BSC Bruck/Leitha
+7,Sun Oct 4 2020,FC Mauerwerk,,Wiener Viktoria
+8,Fri Oct 9 2020,ASK-BSC Bruck/Leitha,,SC Neusiedl am See
+8,Fri Oct 9 2020,FCM Traiskirchen,,SV Stripfing
+8,Fri Oct 9 2020,Wiener Sport-Club,,FC Mauerwerk
+8,Fri Oct 9 2020,FC Marchfeld,,SC Team Wiener Linien
+8,Sat Oct 10 2020,Wiener Viktoria,,SV Leobendorf
+8,Sun Oct 11 2020,FC Admira Wacker Mödling II,,ASV Draßburg
+9,Fri Oct 16 2020,SC Neusiedl am See,,Wiener Viktoria
+9,Fri Oct 16 2020,ASV Draßburg,,ASK-BSC Bruck/Leitha
+9,Sat Oct 17 2020,SV Stripfing,,1. Wiener Neustädter SC
+9,Sat Oct 17 2020,SV Leobendorf,,Wiener Sport-Club
+9,Sat Oct 17 2020,SC Team Wiener Linien,,FC Admira Wacker Mödling II
+9,Sun Oct 18 2020,FC Mauerwerk,,FCM Traiskirchen
+10,Fri Oct 23 2020,ASK-BSC Bruck/Leitha,,SC Team Wiener Linien
+10,Fri Oct 23 2020,Wiener Sport-Club,,SC Neusiedl am See
+10,Fri Oct 23 2020,1. Wiener Neustädter SC,,FC Marchfeld
+10,Fri Oct 23 2020,FCM Traiskirchen,,SV Leobendorf
+10,Sat Oct 24 2020,SV Stripfing,,FC Mauerwerk
+10,Sat Oct 24 2020,Wiener Viktoria,,ASV Draßburg
+11,Fri Oct 30 2020,SC Neusiedl am See,,FCM Traiskirchen
+11,Fri Oct 30 2020,FC Marchfeld,,FC Admira Wacker Mödling II
+11,Fri Oct 30 2020,ASV Draßburg,,Wiener Sport-Club
+11,Sat Oct 31 2020,SV Leobendorf,,SV Stripfing
+11,Sat Oct 31 2020,SC Team Wiener Linien,,Wiener Viktoria
+11,Sun Nov 1 2020,FC Mauerwerk,,1. Wiener Neustädter SC
+12,Fri Nov 6 2020,ASK-BSC Bruck/Leitha,,FC Marchfeld
+12,Fri Nov 6 2020,Wiener Sport-Club,,SC Team Wiener Linien
+12,Fri Nov 6 2020,1. Wiener Neustädter SC,,FC Admira Wacker Mödling II
+12,Fri Nov 6 2020,FCM Traiskirchen,,ASV Draßburg
+12,Sat Nov 7 2020,SV Stripfing,,SC Neusiedl am See
+12,Sun Nov 8 2020,FC Mauerwerk,,SV Leobendorf
+13,Fri Nov 13 2020,SC Neusiedl am See,,FC Mauerwerk
+13,Fri Nov 13 2020,ASV Draßburg,,SV Stripfing
+13,Fri Nov 13 2020,FC Marchfeld,,Wiener Viktoria
+13,Sat Nov 14 2020,SV Leobendorf,,1. Wiener Neustädter SC
+13,Sat Nov 14 2020,SC Team Wiener Linien,,FCM Traiskirchen
+13,Sun Nov 15 2020,FC Admira Wacker Mödling II,,ASK-BSC Bruck/Leitha
+14,Fri Mar 5 2021,SC Neusiedl am See,,SV Leobendorf
+14,Fri Mar 5 2021,1. Wiener Neustädter SC,,ASK-BSC Bruck/Leitha
+14,Fri Mar 5 2021,FC Marchfeld,,Wiener Sport-Club
+14,Fri Mar 5 2021,ASV Draßburg,,FC Mauerwerk
+14,Sat Mar 6 2021,SC Team Wiener Linien,,SV Stripfing
+14,Sun Mar 7 2021,FC Admira Wacker Mödling II,,Wiener Viktoria
+15,Fri Mar 12 2021,SC Neusiedl am See,,1. Wiener Neustädter SC
+15,Fri Mar 12 2021,FC Marchfeld,,FCM Traiskirchen
+15,Fri Mar 12 2021,Wiener Sport-Club,,FC Admira Wacker Mödling II
+15,Sat Mar 13 2021,FC Mauerwerk,,SC Team Wiener Linien
+15,Sat Mar 13 2021,SV Leobendorf,,ASV Draßburg
+15,Sun Mar 14 2021,Wiener Viktoria,,ASK-BSC Bruck/Leitha
+16,Fri Mar 19 2021,ASK-BSC Bruck/Leitha,,Wiener Sport-Club
+16,Fri Mar 19 2021,1. Wiener Neustädter SC,,Wiener Viktoria
+16,Fri Mar 19 2021,FC Marchfeld,,SV Stripfing
+16,Fri Mar 19 2021,ASV Draßburg,,SC Neusiedl am See
+16,Sat Mar 20 2021,SC Team Wiener Linien,,SV Leobendorf
+16,Sun Mar 21 2021,FC Admira Wacker Mödling II,,FCM Traiskirchen
+17,Fri Mar 26 2021,SC Neusiedl am See,,SC Team Wiener Linien
+17,Fri Mar 26 2021,Wiener Sport-Club,,Wiener Viktoria
+17,Fri Mar 26 2021,FCM Traiskirchen,,ASK-BSC Bruck/Leitha
+17,Fri Mar 26 2021,ASV Draßburg,,1. Wiener Neustädter SC
+17,Sat Mar 27 2021,FC Mauerwerk,,FC Marchfeld
+17,Sun Mar 28 2021,SV Stripfing,,FC Admira Wacker Mödling II
+18,Fri Apr 2 2021,ASK-BSC Bruck/Leitha,,SV Stripfing
+18,Fri Apr 2 2021,FC Marchfeld,,SV Leobendorf
+18,Fri Apr 2 2021,1. Wiener Neustädter SC,,Wiener Sport-Club
+18,Sat Apr 3 2021,SC Team Wiener Linien,,ASV Draßburg
+18,Sun Apr 4 2021,FC Admira Wacker Mödling II,,FC Mauerwerk
+18,Sun Apr 4 2021,Wiener Viktoria,,FCM Traiskirchen
+19,Fri Apr 9 2021,SC Neusiedl am See,,FC Marchfeld
+19,Fri Apr 9 2021,FCM Traiskirchen,,Wiener Sport-Club
+19,Sat Apr 10 2021,SV Leobendorf,,FC Admira Wacker Mödling II
+19,Sat Apr 10 2021,FC Mauerwerk,,ASK-BSC Bruck/Leitha
+19,Sat Apr 10 2021,SC Team Wiener Linien,,1. Wiener Neustädter SC
+19,Sun Apr 11 2021,SV Stripfing,,Wiener Viktoria
+20,Fri Apr 16 2021,ASK-BSC Bruck/Leitha,,SV Leobendorf
+20,Fri Apr 16 2021,FC Marchfeld,,ASV Draßburg
+20,Fri Apr 16 2021,1. Wiener Neustädter SC,,FCM Traiskirchen
+20,Fri Apr 16 2021,Wiener Sport-Club,,SV Stripfing
+20,Sun Apr 18 2021,Wiener Viktoria,,FC Mauerwerk
+20,Sun Apr 18 2021,FC Admira Wacker Mödling II,,SC Neusiedl am See
+21,Fri Apr 23 2021,SC Neusiedl am See,,ASK-BSC Bruck/Leitha
+21,Fri Apr 23 2021,ASV Draßburg,,FC Admira Wacker Mödling II
+21,Sat Apr 24 2021,SV Leobendorf,,Wiener Viktoria
+21,Sat Apr 24 2021,SV Stripfing,,FCM Traiskirchen
+21,Sat Apr 24 2021,FC Mauerwerk,,Wiener Sport-Club
+21,Sat Apr 24 2021,SC Team Wiener Linien,,FC Marchfeld
+22,Fri Apr 30 2021,ASK-BSC Bruck/Leitha,,ASV Draßburg
+22,Fri Apr 30 2021,Wiener Sport-Club,,SV Leobendorf
+22,Fri Apr 30 2021,FCM Traiskirchen,,FC Mauerwerk
+22,Fri Apr 30 2021,1. Wiener Neustädter SC,,SV Stripfing
+22,Sun May 2 2021,FC Admira Wacker Mödling II,,SC Team Wiener Linien
+22,Sun May 2 2021,Wiener Viktoria,,SC Neusiedl am See
+23,Fri May 7 2021,SC Neusiedl am See,,Wiener Sport-Club
+23,Fri May 7 2021,ASV Draßburg,,Wiener Viktoria
+23,Fri May 7 2021,FC Marchfeld,,1. Wiener Neustädter SC
+23,Sat May 8 2021,SV Leobendorf,,FCM Traiskirchen
+23,Sat May 8 2021,FC Mauerwerk,,SV Stripfing
+23,Sat May 8 2021,SC Team Wiener Linien,,ASK-BSC Bruck/Leitha
+24,Fri May 14 2021,Wiener Sport-Club,,ASV Draßburg
+24,Fri May 14 2021,FCM Traiskirchen,,SC Neusiedl am See
+24,Fri May 14 2021,1. Wiener Neustädter SC,,FC Mauerwerk
+24,Sun May 16 2021,SV Stripfing,,SV Leobendorf
+24,Sun May 16 2021,Wiener Viktoria,,SC Team Wiener Linien
+24,Sun May 16 2021,FC Admira Wacker Mödling II,,FC Marchfeld
+25,Fri May 21 2021,SC Neusiedl am See,,SV Stripfing
+25,Fri May 21 2021,FC Marchfeld,,ASK-BSC Bruck/Leitha
+25,Fri May 21 2021,ASV Draßburg,,FCM Traiskirchen
+25,Sat May 22 2021,SV Leobendorf,,FC Mauerwerk
+25,Sat May 22 2021,SC Team Wiener Linien,,Wiener Sport-Club
+25,Sun May 23 2021,FC Admira Wacker Mödling II,,1. Wiener Neustädter SC
+26,Fri May 28 2021,ASK-BSC Bruck/Leitha,,FC Admira Wacker Mödling II
+26,Fri May 28 2021,1. Wiener Neustädter SC,,SV Leobendorf
+26,Fri May 28 2021,FCM Traiskirchen,,SC Team Wiener Linien
+26,Sat May 29 2021,FC Mauerwerk,,SC Neusiedl am See
+26,Sun May 30 2021,Wiener Viktoria,,FC Marchfeld
+26,Sun May 30 2021,SV Stripfing,,ASV Draßburg
