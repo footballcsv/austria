@@ -11,66 +11,66 @@ Grunddurchgang,2,Sat Sep 19 2020,SK Sturm Graz,1-1,SK Rapid Wien
 Grunddurchgang,2,Sun Sep 20 2020,TSV Hartberg,0-2,Wolfsberger AC
 Grunddurchgang,2,Sun Sep 20 2020,FC Admira Wacker Mödling,0-5,SKN St. Pölten
 Grunddurchgang,2,Sun Sep 20 2020,FK Austria Wien,2-1,SV Ried
-Grunddurchgang,3,Sat Sep 26 2020,SCR Altach,,WSG Tirol
-Grunddurchgang,3,Sat Sep 26 2020,SKN St. Pölten,,SK Rapid Wien
-Grunddurchgang,3,Sat Sep 26 2020,SV Ried,,FC RB Salzburg
-Grunddurchgang,3,Sun Sep 27 2020,FK Austria Wien,,FC Admira Wacker Mödling
-Grunddurchgang,3,Sun Sep 27 2020,TSV Hartberg,,SK Sturm Graz
-Grunddurchgang,3,Sun Sep 27 2020,LASK Linz,,Wolfsberger AC
-Grunddurchgang,4,Sat Oct 3 2020,FC Admira Wacker Mödling,,SV Ried
-Grunddurchgang,4,Sat Oct 3 2020,WSG Tirol,,FK Austria Wien
-Grunddurchgang,4,Sat Oct 3 2020,Wolfsberger AC,,SKN St. Pölten
-Grunddurchgang,4,Sun Oct 4 2020,SK Sturm Graz,,SCR Altach
-Grunddurchgang,4,Sun Oct 4 2020,FC RB Salzburg,,TSV Hartberg
-Grunddurchgang,4,Sun Oct 4 2020,SK Rapid Wien,,LASK Linz
-Grunddurchgang,5,Sat Oct 24 2020,Wolfsberger AC,,SK Rapid Wien
-Grunddurchgang,5,Sat Oct 24 2020,LASK Linz,,SKN St. Pölten
+Grunddurchgang,3,Sat Sep 26 2020,SCR Altach,0-2,WSG Tirol
+Grunddurchgang,3,Sat Sep 26 2020,SKN St. Pölten,1-2,SK Rapid Wien
+Grunddurchgang,3,Sat Sep 26 2020,SV Ried,1-3,FC RB Salzburg
+Grunddurchgang,3,Sun Sep 27 2020,FK Austria Wien,2-2,FC Admira Wacker Mödling
+Grunddurchgang,3,Sun Sep 27 2020,TSV Hartberg,1-1,SK Sturm Graz
+Grunddurchgang,3,Sun Sep 27 2020,LASK Linz,3-1,Wolfsberger AC
+Grunddurchgang,4,Sat Oct 3 2020,FC Admira Wacker Mödling,3-1,SV Ried
+Grunddurchgang,4,Sat Oct 3 2020,WSG Tirol,0-2,FK Austria Wien
+Grunddurchgang,4,Sat Oct 3 2020,Wolfsberger AC,2-4,SKN St. Pölten
+Grunddurchgang,4,Sun Oct 4 2020,SK Sturm Graz,4-0,SCR Altach
+Grunddurchgang,4,Sun Oct 4 2020,FC RB Salzburg,7-1,TSV Hartberg
+Grunddurchgang,4,Sun Oct 4 2020,SK Rapid Wien,3-0,LASK Linz
 Grunddurchgang,5,Sat Oct 24 2020,FK Austria Wien,,FC RB Salzburg
 Grunddurchgang,5,Sat Oct 24 2020,SCR Altach,,FC Admira Wacker Mödling
-Grunddurchgang,5,Sat Oct 24 2020,WSG Tirol,,TSV Hartberg
 Grunddurchgang,5,Sat Oct 24 2020,SV Ried,,SK Sturm Graz
+Grunddurchgang,5,Sun Oct 25 2020,LASK Linz,,SKN St. Pölten
+Grunddurchgang,5,Sun Oct 25 2020,WSG Tirol,,TSV Hartberg
+Grunddurchgang,5,Sun Oct 25 2020,Wolfsberger AC,,SK Rapid Wien
 Grunddurchgang,6,Sat Oct 31 2020,FC RB Salzburg,,WSG Tirol
-Grunddurchgang,6,Sat Oct 31 2020,SK Rapid Wien,,SCR Altach
 Grunddurchgang,6,Sat Oct 31 2020,TSV Hartberg,,FK Austria Wien
-Grunddurchgang,6,Sat Oct 31 2020,SK Sturm Graz,,LASK Linz
 Grunddurchgang,6,Sat Oct 31 2020,SKN St. Pölten,,SV Ried
-Grunddurchgang,6,Sat Oct 31 2020,FC Admira Wacker Mödling,,Wolfsberger AC
-Grunddurchgang,7,Sat Nov 7 2020,SK Rapid Wien,,FC RB Salzburg
-Grunddurchgang,7,Sat Nov 7 2020,Wolfsberger AC,,SK Sturm Graz
-Grunddurchgang,7,Sat Nov 7 2020,LASK Linz,,FC Admira Wacker Mödling
+Grunddurchgang,6,Sun Nov 1 2020,SK Rapid Wien,,SCR Altach
+Grunddurchgang,6,Sun Nov 1 2020,FC Admira Wacker Mödling,,Wolfsberger AC
+Grunddurchgang,6,Sun Nov 1 2020,SK Sturm Graz,,LASK Linz
 Grunddurchgang,7,Sat Nov 7 2020,SCR Altach,,FK Austria Wien
 Grunddurchgang,7,Sat Nov 7 2020,SKN St. Pölten,,WSG Tirol
 Grunddurchgang,7,Sat Nov 7 2020,SV Ried,,TSV Hartberg
+Grunddurchgang,7,Sun Nov 8 2020,Wolfsberger AC,,SK Sturm Graz
+Grunddurchgang,7,Sun Nov 8 2020,LASK Linz,,FC Admira Wacker Mödling
+Grunddurchgang,7,Sun Nov 8 2020,SK Rapid Wien,,FC RB Salzburg
 Grunddurchgang,8,Sat Nov 21 2020,FC RB Salzburg,,SK Sturm Graz
 Grunddurchgang,8,Sat Nov 21 2020,TSV Hartberg,,LASK Linz
-Grunddurchgang,8,Sat Nov 21 2020,FK Austria Wien,,SKN St. Pölten
 Grunddurchgang,8,Sat Nov 21 2020,SCR Altach,,Wolfsberger AC
-Grunddurchgang,8,Sat Nov 21 2020,WSG Tirol,,FC Admira Wacker Mödling
-Grunddurchgang,8,Sat Nov 21 2020,SV Ried,,SK Rapid Wien
-Grunddurchgang,9,Sat Nov 28 2020,SK Rapid Wien,,FK Austria Wien
-Grunddurchgang,9,Sat Nov 28 2020,Wolfsberger AC,,SV Ried
-Grunddurchgang,9,Sat Nov 28 2020,LASK Linz,,SCR Altach
+Grunddurchgang,8,Sun Nov 22 2020,FK Austria Wien,,SKN St. Pölten
+Grunddurchgang,8,Sun Nov 22 2020,WSG Tirol,,FC Admira Wacker Mödling
+Grunddurchgang,8,Sun Nov 22 2020,SV Ried,,SK Rapid Wien
 Grunddurchgang,9,Sat Nov 28 2020,SK Sturm Graz,,WSG Tirol
 Grunddurchgang,9,Sat Nov 28 2020,SKN St. Pölten,,FC RB Salzburg
 Grunddurchgang,9,Sat Nov 28 2020,FC Admira Wacker Mödling,,TSV Hartberg
-Grunddurchgang,10,Sat Dec 5 2020,LASK Linz,,SV Ried
-Grunddurchgang,10,Sat Dec 5 2020,TSV Hartberg,,SK Rapid Wien
+Grunddurchgang,9,Sun Nov 29 2020,Wolfsberger AC,,SV Ried
+Grunddurchgang,9,Sun Nov 29 2020,LASK Linz,,SCR Altach
+Grunddurchgang,9,Sun Nov 29 2020,SK Rapid Wien,,FK Austria Wien
 Grunddurchgang,10,Sat Dec 5 2020,FK Austria Wien,,SK Sturm Graz
 Grunddurchgang,10,Sat Dec 5 2020,SCR Altach,,SKN St. Pölten
 Grunddurchgang,10,Sat Dec 5 2020,FC Admira Wacker Mödling,,FC RB Salzburg
-Grunddurchgang,10,Sat Dec 5 2020,WSG Tirol,,Wolfsberger AC
-Grunddurchgang,11,Sat Dec 12 2020,FC RB Salzburg,,LASK Linz
-Grunddurchgang,11,Sat Dec 12 2020,SK Rapid Wien,,WSG Tirol
-Grunddurchgang,11,Sat Dec 12 2020,Wolfsberger AC,,FK Austria Wien
+Grunddurchgang,10,Sun Dec 6 2020,TSV Hartberg,,SK Rapid Wien
+Grunddurchgang,10,Sun Dec 6 2020,WSG Tirol,,Wolfsberger AC
+Grunddurchgang,10,Sun Dec 6 2020,LASK Linz,,SV Ried
 Grunddurchgang,11,Sat Dec 12 2020,SK Sturm Graz,,FC Admira Wacker Mödling
 Grunddurchgang,11,Sat Dec 12 2020,SKN St. Pölten,,TSV Hartberg
 Grunddurchgang,11,Sat Dec 12 2020,SV Ried,,SCR Altach
-Grunddurchgang,12,Sat Dec 19 2020,FK Austria Wien,,LASK Linz
+Grunddurchgang,11,Sun Dec 13 2020,SK Rapid Wien,,WSG Tirol
+Grunddurchgang,11,Sun Dec 13 2020,Wolfsberger AC,,FK Austria Wien
+Grunddurchgang,11,Sun Dec 13 2020,FC RB Salzburg,,LASK Linz
 Grunddurchgang,12,Sat Dec 19 2020,TSV Hartberg,,SCR Altach
 Grunddurchgang,12,Sat Dec 19 2020,FC Admira Wacker Mödling,,SK Rapid Wien
-Grunddurchgang,12,Sat Dec 19 2020,WSG Tirol,,SV Ried
 Grunddurchgang,12,Sat Dec 19 2020,SK Sturm Graz,,SKN St. Pölten
-Grunddurchgang,12,Sat Dec 19 2020,FC RB Salzburg,,Wolfsberger AC
+Grunddurchgang,12,Sun Dec 20 2020,WSG Tirol,,SV Ried
+Grunddurchgang,12,Sun Dec 20 2020,FC RB Salzburg,,Wolfsberger AC
+Grunddurchgang,12,Sun Dec 20 2020,FK Austria Wien,,LASK Linz
 Grunddurchgang,13,Sat Jan 23 2021,SCR Altach,,FC RB Salzburg
 Grunddurchgang,13,Sat Jan 23 2021,LASK Linz,,WSG Tirol
 Grunddurchgang,13,Sat Jan 23 2021,SK Rapid Wien,,SK Sturm Graz
