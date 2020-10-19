@@ -30,19 +30,25 @@ Round,Date,Team 1,FT,Team 2
 1,Wed Sep 16 2020,Union Gurten,1-3,SCR Altach
 1,Tue Sep 22 2020,SC Weiz,0-1,ASK Elektra Wien
 1,Wed Sep 30 2020,SC Schwaz,1-3,VfB Hohenems
-2,Fri Oct 16 2020,FC Admira Wacker Mödling,,Kapfenberger SV
-2,Fri Oct 16 2020,WSG Tirol,,Floridsdorfer AC
-2,Fri Oct 16 2020,SV Lafnitz,,Austria Klagenfurt
-2,Fri Oct 16 2020,USV Allerheiligen,,SKU Amstetten
-2,Fri Oct 16 2020,SV Horn,,ASK Elektra Wien
-2,Fri Oct 16 2020,Wiener Sport-Club,,FK Austria Wien
-2,Sat Oct 17 2020,SKN St. Pölten,,FC RB Salzburg
-2,Sat Oct 17 2020,ASKÖ Gmünd,,TSV Hartberg
-2,Sat Oct 17 2020,SVG Reichenau,,FC Blau-Weiß Linz
-2,Sat Oct 17 2020,FC Wacker Innsbruck,,SV Stripfing
-2,Sat Oct 17 2020,SCR Altach,,SV Seekirchen
-2,Sat Oct 17 2020,1. Wiener Neustädter SC,,SK Rapid Wien
-2,Sat Oct 17 2020,LASK Linz,,SV Wörgl
-2,Sat Oct 17 2020,First Vienna FC,,SK Vorwärts Steyr
-2,Sun Oct 18 2020,SK Sturm Graz,,VfB Hohenems
+2,Fri Oct 16 2020,FC Admira Wacker Mödling,1-1,Kapfenberger SV
+2,Fri Oct 16 2020,WSG Tirol,0-1,Floridsdorfer AC
+2,Fri Oct 16 2020,SV Lafnitz,2-4,Austria Klagenfurt
+2,Fri Oct 16 2020,SV Horn,0-3,ASK Elektra Wien
+2,Fri Oct 16 2020,Wiener Sport-Club,1-3,FK Austria Wien
+2,Sat Oct 17 2020,SKN St. Pölten,0-3,FC RB Salzburg
+2,Sat Oct 17 2020,ASKÖ Gmünd,3-3,TSV Hartberg
+2,Sat Oct 17 2020,VfB Hohenems,1-2,SK Sturm Graz
+2,Sat Oct 17 2020,FC Wacker Innsbruck,1-0,SV Stripfing
+2,Sat Oct 17 2020,SCR Altach,7-0,SV Seekirchen
+2,Sat Oct 17 2020,1. Wiener Neustädter SC,1-5,SK Rapid Wien
+2,Sat Oct 17 2020,LASK Linz,3-0,SV Wörgl
+2,Sat Oct 17 2020,First Vienna FC,3-2,SK Vorwärts Steyr
 2,Sun Oct 18 2020,Wolfsberger AC,,SV Ried
+2,Tue Nov 3 2020,USV Allerheiligen,,SKU Amstetten
+2,Wed Nov 4 2020,SVG Reichenau,,FC Blau-Weiß Linz
+3,Wed Nov 4 2020,SCR Altach,,First Vienna FC
+3,Wed Nov 4 2020,LASK Linz,,ASK Elektra Wien
+3,Wed Nov 4 2020,SK Sturm Graz,,FC Wacker Innsbruck
+3,Wed Nov 4 2020,Floridsdorfer AC,,Austria Klagenfurt
+3,Wed Nov 4 2020,FK Austria Wien,,TSV Hartberg
+3,Wed Nov 4 2020,FC RB Salzburg,,SK Rapid Wien
