@@ -55,22 +55,22 @@ Round,Date,Team 1,FT,Team 2
 7,Mon Oct 26 2020,Grazer AK,3-1,FC Blau-Weiß Linz
 7,Mon Oct 26 2020,SKU Amstetten,3-3,FC Juniors OÖ
 7,Mon Oct 26 2020,SV Horn,0-0,SK Vorwärts Steyr
-8,Fri Oct 30 2020,Young Violets Austria Wien,,FC Liefering
-8,Fri Oct 30 2020,FC Wacker Innsbruck,,SV Horn
-8,Fri Oct 30 2020,SK Vorwärts Steyr,,Floridsdorfer AC
-8,Fri Oct 30 2020,SV Lafnitz,,Kapfenberger SV
-8,Fri Oct 30 2020,FC Juniors OÖ,,Grazer AK
-8,Sat Oct 31 2020,FC Blau-Weiß Linz,,SK Rapid Wien II
-8,Sat Oct 31 2020,Austria Klagenfurt,,SKU Amstetten
-8,Sun Nov 1 2020,Austria Lustenau,,FC Dornbirn 1913
+8,Fri Oct 30 2020,Young Violets Austria Wien,0-2,FC Liefering
+8,Fri Oct 30 2020,FC Wacker Innsbruck,3-2,SV Horn
+8,Fri Oct 30 2020,SK Vorwärts Steyr,3-3,Floridsdorfer AC
+8,Fri Oct 30 2020,SV Lafnitz,2-0,Kapfenberger SV
+8,Fri Oct 30 2020,FC Juniors OÖ,2-0,Grazer AK
+8,Sat Oct 31 2020,FC Blau-Weiß Linz,3-1,SK Rapid Wien II
+8,Sat Oct 31 2020,Austria Klagenfurt,3-0,SKU Amstetten
+8,Sun Nov 1 2020,Austria Lustenau,0-1,FC Dornbirn 1913
 9,Fri Nov 6 2020,FC Liefering,,SKU Amstetten
-9,Fri Nov 6 2020,FC Wacker Innsbruck,,Young Violets Austria Wien
 9,Fri Nov 6 2020,SV Horn,,SK Rapid Wien II
 9,Fri Nov 6 2020,Floridsdorfer AC,,FC Juniors OÖ
 9,Fri Nov 6 2020,Kapfenberger SV,,Austria Lustenau
 9,Fri Nov 6 2020,Grazer AK,,Austria Klagenfurt
 9,Sat Nov 7 2020,FC Dornbirn 1913,,SV Lafnitz
 9,Sun Nov 8 2020,SK Vorwärts Steyr,,FC Blau-Weiß Linz
+9,Sun Nov 8 2020,FC Wacker Innsbruck,,Young Violets Austria Wien
 10,Fri Nov 20 2020,FC Blau-Weiß Linz,,SV Horn
 10,Fri Nov 20 2020,FC Liefering,,Kapfenberger SV
 10,Fri Nov 20 2020,SKU Amstetten,,Young Violets Austria Wien
